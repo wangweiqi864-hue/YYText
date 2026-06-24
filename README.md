@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 YYText
 ==============
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://raw.githubusercontent.com/ibireme/YYText/master/LICENSE)&nbsp;
@@ -1100,3 +1101,7 @@ debugOptions.CGGlyphBorderColor = [UIColor colorWithRed:1.000 green:0.524 blue:0
 YYText 使用 MIT 许可证，详情见 LICENSE 文件。
 
 
+=======
+# YYText
+https://github.com/MuShare/YYText.git Second revision
+>>>>>>> 552b61e7661d7ab5e0ce790f047848ac3467d2c3
